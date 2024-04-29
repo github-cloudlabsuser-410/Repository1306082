@@ -1,0 +1,11 @@
+
+{
+"name": "Codspaces for skills",
+"customization": {
+    "vscode": {
+      "extentions": [
+        "GitHub.copilot"
+      ]
+    }
+}
+}
